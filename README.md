@@ -44,21 +44,28 @@ Design RC Phase shift oscillator with frequency of oscillation f=1 KHz,assume C 
 3. Measure the output wave frequency and amplitude.
 
 
-# RC  PHASE SHIFT OSCILLATOR: 
+# RC  PHASE SHIFT OSCILLATOR
 
-# DESIGN
+# DESIGN:
+![WhatsApp Image 2025-11-11 at 11 20 47_9a80a08c](https://github.com/user-attachments/assets/917f59bd-a7e2-4fa7-8a7e-7033f1786da9)
 
-# TABULATION
+# TABULATION:
+![WhatsApp Image 2025-11-11 at 11 22 25_ec94ae63](https://github.com/user-attachments/assets/157f3c67-54d9-4386-98fb-e2effff0253d)
 
-# GRAPH
+# GRAPH:
+![WhatsApp Image 2025-11-11 at 11 24 16_bfd93fb8](https://github.com/user-attachments/assets/8a264420-54cf-4bc1-ba4a-74d559be7104)
 
 # WIEN BRIDGE OSCILLATOR
 
 
-# DESIGN
+# DESIGN:
+![WhatsApp Image 2025-11-11 at 11 21 32_7ab0886a](https://github.com/user-attachments/assets/1d8254c7-9d96-4da1-a2b1-bf73398cadc6)
 
-# TABULATION
+# TABULATION:
+![WhatsApp Image 2025-11-11 at 11 22 46_a46d25be](https://github.com/user-attachments/assets/055021c6-a057-4b94-8ee5-2279766982a8)
 
-# GRAPH
+# GRAPH:
+![WhatsApp Image 2025-11-11 at 11 26 12_e098c841](https://github.com/user-attachments/assets/e93daaf7-934c-4f8a-97b7-55fa817834bc)
 
-# RESULT
+# RESULT:
+Thus the RC Phase Shift and Wein Bridge oscillators are designed and tested using OP-amp IC 741.
